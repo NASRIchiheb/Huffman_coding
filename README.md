@@ -1,1 +1,1 @@
-Huffman coding code
+# Codage suivant la methode Huffman
